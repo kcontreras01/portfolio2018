@@ -1,10 +1,10 @@
 import React, { Component } from 'react';
 import '../App.css';
 
-class Landing extends Component {
+class Projects extends Component {
   render() {
     return (
-				<section id="grid">
+				<section>
           <div className="boxes">in the div</div>
           <div className="boxes">in the div</div>
           <div className="boxes">in the div</div>
@@ -14,4 +14,4 @@ class Landing extends Component {
   }
 }
 
-export default Landing;
+export default Projects;
