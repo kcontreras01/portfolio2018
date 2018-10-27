@@ -9,7 +9,10 @@ class Projects extends Component {
           <div className="boxes">in the div</div>
           <div className="boxes">in the div</div>
           <div className="boxes">in the div</div>
-        </section>   
+        </section>  
+
+
+         
     );
   }
 }
