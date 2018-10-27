@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+  background-color: #E8F1F2;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  grid-gap: 10px;
+  /*width: 80vw;*/
+  margin: auto;
+}
+
+.boxes {
+  width
+  /*height: 50px;*/
+  background: blue;
+  padding: 20px;
+  /*margin: auto;*/
+}
